@@ -8,6 +8,7 @@
   <li>Clone project from github and go to project folder: <strong>cd real-estate-connector</strong></li>
   <li>Setup virtual environment. For Python3 version: <strong>python3 -m venv ./venv</strong> </li>
   <li>Access virtual environment (on MacOS): <strong>source ./venv/bin/activate</strong> </li>
+  <li>Install dependencies: <strong>pip install -r requirements.txt</strong></li>
   <li>Install PostgreSQL, create database and config "database name, username, password" in settings.py</li>
   <li>Create database records from models: <strong>python manage.py migrate</strong></li>
   <li>Run project: <strong>python manage.py runserver</strong></li>
