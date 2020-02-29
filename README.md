@@ -5,10 +5,6 @@
 
 ### 1. Introduction
 
-**1.1. Source Code:** <a href="https://github.com/bntnam/real-estate-connector" target="_blank">https://github.com/bntnam/real-estate-connector</a>
-
-**1.2. Run project locally:**
-
 - Clone project from github and go to project folder: **cd real-estate-connector**
 - Setup virtual environment. For Python3 version: **python3 -m venv ./venv**
 - Access virtual environment (on MacOS): **source ./venv/bin/activate**
