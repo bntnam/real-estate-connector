@@ -1,7 +1,7 @@
 # Real Estate Connector
-<img class="img-fluid mb-5" src="http://bntnam.github.io/img/portfolio/real-estate-connector-1.png" alt="">
-<img class="img-fluid mb-5" src="http://bntnam.github.io/img/portfolio/real-estate-connector-3.png" alt="">
-<img class="img-fluid mb-5" src="http://bntnam.github.io/img/portfolio/real-estate-connector-2.png" alt="">
+<img class="img-fluid mb-5" src="http://bntnam.github.io/img/portfolio/real-estate-connector-1.png" alt="real estate connector image 1">
+<img class="img-fluid mb-5" src="http://bntnam.github.io/img/portfolio/real-estate-connector-3.png" alt="real estate connector image 2">
+<img class="img-fluid mb-5" src="http://bntnam.github.io/img/portfolio/real-estate-connector-2.png" alt="real estate connector image 3">
 
 ### 1. Introduction
 
